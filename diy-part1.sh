@@ -22,7 +22,7 @@ git clone --depth=1 https://github.com/Openwrt-Passwall/openwrt-passwall2  packa
 git clone --depth=1 -b master https://github.com/vernesong/OpenClash  package/OpenClash
 git clone --depth=1 https://github.com/nikkinikki-org/OpenWrt-nikki  package/nikki
 git clone --depth=1 https://github.com/nikkinikki-org/OpenWrt-momo  package/momo
-git clone --depth=1 -b master https://github.com/QiuSimons/luci-app-daed  package/daed
+git clone --depth=1 -b kix https://github.com/QiuSimons/luci-app-daed  package/daed
 git clone --depth=1 -b master https://github.com/fw876/helloworld  package/helloworld
 
 # 功能插件
